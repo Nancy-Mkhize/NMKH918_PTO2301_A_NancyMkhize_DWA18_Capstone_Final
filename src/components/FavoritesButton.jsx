@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faHeart } from "@fortawesome/free-solid-svg-icons"
 import { faHeart as FaHeart } from "@fortawesome/free-regular-svg-icons"
 
-function FavouriteButton(props) {
+export default function FavoriteButton(props) {
   const { state, data } = props
   const [ isFavourite, setIsFavourite ] = useState(state);
   const updateFavourites = useFavouritesUpdate(isFavourite, data.episode, data.show, data.season);
@@ -33,4 +33,3 @@ function FavouriteButton(props) {
   )
 }
 
-export default FavouriteButton
