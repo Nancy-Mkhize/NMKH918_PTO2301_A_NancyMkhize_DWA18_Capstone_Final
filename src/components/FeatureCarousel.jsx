@@ -1,6 +1,6 @@
 import { Link, useLoaderData } from "react-router-dom"
 import FeaturedCard from "../FeaturedCard";
-import Carousel from "../Carousel";
+import Carousel from "..components/Carousel";
 
 const FeatureCarousel = () => {
   const shows = useLoaderData();
