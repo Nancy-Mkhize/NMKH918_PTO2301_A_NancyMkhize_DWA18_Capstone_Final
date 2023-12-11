@@ -1,8 +1,61 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# The Curious Cast Podcasts
 
-Currently, two official plugins are available:
+This is a capstone project for the Dynamic Web Apps course provided by Codespace Academy.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Project Aims:
+To create a podcast website using APIs and React.js.
+
+[The curious cast]( https://glowing-meerkat-0a142d.netlify.app/)
+
+
+
+## Authors
+
+- [Nancy Mkhize](https://github.com/Nancy-Mkhize)
+
+
+## Features
+
+- Listen Podcasts
+- Search by title
+- Sort by alphabet (A - Z | Z - A)
+- Sort by date (newest - oldest | oldest - newest)
+- Responsive
+
+
+## Technology Stack
+
+- Vite.js - Development environment
+- ESLint - Maintaining code quality
+- Node -  Package manager
+- Tailwind - CSS Framework
+- VSCode - IDE
+- Figma - Wireframe & preliminary design
+## To-Do
+
+ * TO-DO:
+ * NB!!!! Add navbar to show view
+ * Preview - Update preview styling
+ * Preview - Match placeholder to actual preview
+ * Preview - Shrink text with screen size
+ * Preview - Improve above by fixing text wrap on small screens
+ * Carousel - Increase width of area for arrows
+ * Carousel - Check overscroll behaviour
+ * App - useContext to pass theme & show data
+ * App - useReducer to track state
+ * App - Lazy load logging in & favourites
+ * App - Add error catching for all fetch requests.
+ * App - Prettier all files before shipping off
+ * Unsubscribe from all API calls by retunring useEffect cleanups
+ * App - Fix, Handle All Errors Error 404 page
+ * Add JSDoc
+ * Add comments
+ * App - Use NavLink for NavBar
+ * App - Check validation on ALL forms
+ * Home - Change images to use jpeg
+ * App - Fix restricted routes reroute snap
+ * main - move useContext back to App.jsx
+ * app - unsubscribe supabase on log out
+ * Favourites - fix favourites render issue. Put inside useEffect with season as dependency
+

@@ -8,7 +8,7 @@ import AuthRoute, { showsLoader }from "./layouts/AuthRoute"
 import Landing from "./pages/Landing"
 import Home from "./pages/Home"
 import ErrorPage from "./pages/ErrorPage"
-import Favourites from "./pages/Favourites"
+import Favourites from "./pages/Favorites"
 import ShowPage, { showDetailsLoader } from "./pages/ShowPage"
 import SignUp from "./pages/SignUp"
 import SignIn from './pages/SignIn'

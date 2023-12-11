@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react"
-import useFavouritesUpdate from "../hooks/useFavouritesUpdate"
+import useFavouritesUpdate from "../hooks/useFavoritesUpdate"
 
 // icons
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"

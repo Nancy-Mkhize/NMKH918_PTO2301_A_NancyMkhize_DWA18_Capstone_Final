@@ -2,7 +2,7 @@ import Hero from '../components/Hero'
 import GenreCards from '../components/GenreCards'
 import PreviewsLayout from '../layouts/PreviewsLayout'
 import { useLoaderData } from 'react-router-dom'
-import FeaturedCarousel from '../components/FeaturedCarousel'
+import FeaturedCarousel from '../components/FeatureCarousel'
 
 export default function Home() {
 const shows = useLoaderData();

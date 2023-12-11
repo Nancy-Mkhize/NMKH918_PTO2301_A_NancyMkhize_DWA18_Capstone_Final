@@ -6,7 +6,7 @@ import AudioPlayer from "../components/AudioPlayer";
 import Hero from '../components/Hero'
 import GenreCards from '../components/GenreCards'
 import PreviewsLayout from '../layouts/PreviewsLayout'
-import FeaturedCarousel from '../components/FeaturedCarousel'
+import FeaturedCarousel from '../components/FeatureCarousel'
 import Navbar from '../components/Navbar'
 
 function AuthRoute() {

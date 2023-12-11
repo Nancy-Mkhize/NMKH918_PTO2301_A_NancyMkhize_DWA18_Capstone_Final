@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Fuse from 'fuse.js';
-import { Preview } from "../components/Preview";
+import { Preview } from "../components/PreviewPodcast";
 import { useSort } from "../hooks/useSort";
 import { SortOptions } from "../components/SortOptions";
 import { BiSearch, BiLoader } from "react-icons/bi"; // Bootstrap icons

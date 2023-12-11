@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { supabase } from "../supabaseClient";
 import { BiLoader } from "react-icons/bi"; // Bootstrap icon
 import Hero from "../components/Hero";
-import FavouritesCards from "../components/FavouritesCards";
+import FavouritesCards from "../components/FavoritesCards";
 
 const Favourites = () => {
   const [favourites, setFavourites] = useState([]);

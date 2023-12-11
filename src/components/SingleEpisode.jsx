@@ -6,7 +6,7 @@ import { faCirclePlay, faAngleDown, faAngleUp } from "@fortawesome/free-solid-sv
 
 // components
 import FavouriteButton from "./FavouriteButton"
-import useFavouriteCheck from "../hooks/useFavouriteCheck"
+import useFavouriteCheck from "../hooks/useFavoriteCheck"
 import { useOutletContext } from "react-router-dom"
 
 
