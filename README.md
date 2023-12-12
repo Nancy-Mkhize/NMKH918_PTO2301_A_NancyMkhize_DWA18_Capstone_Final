@@ -1,18 +1,18 @@
 
-# The Curious Cast Podcasts
+# TalkBox Podcasts
 
 This is a capstone project for the Dynamic Web Apps course provided by Codespace Academy.
 
 ### Project Aims:
 To create a podcast website using APIs and React.js.
 
-[The curious cast]( https://glowing-meerkat-0a142d.netlify.app/)
+[The curious cast]( "Unlock your mind, Explore the world with The Curious")
 
 
 
 ## Authors
 
-- [Nancy Mkhize](https://github.com/Nancy-Mkhize)
+- 
 
 
 ## Features
@@ -35,7 +35,7 @@ To create a podcast website using APIs and React.js.
 ## To-Do
 
  * TO-DO:
- * NB!!!! Add navbar to show view
+ * NB!!!!!! Add navbar to show view
  * Preview - Update preview styling
  * Preview - Match placeholder to actual preview
  * Preview - Shrink text with screen size
